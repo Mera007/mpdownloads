@@ -1,0 +1,23 @@
+      
+{
+    "banner":{
+        "id":"ca-app-pub-3940256099942544/6300978111",
+        "enabled":true
+    },
+    "interstitial":{
+        "id":"ca-app-pub-3940256099942544/2247696110",
+        "enabled":true
+    },
+    "native":{
+        "id":"ca-app-pub-3940256099942544/2247696110",
+        "enabled":true
+    },
+    "native_banner":{
+        "id":"ca-app-pub-3940256099942544/6300978111",
+        "enabled":true
+    },
+    "native_advanced":{
+        "id":"ca-app-pub-3940256099942544/2247696110",
+        "enabled":true
+    }
+}
