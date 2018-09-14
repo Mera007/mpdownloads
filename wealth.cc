@@ -21,7 +21,7 @@
 			"id": "106701156/206424228"
 		}
 	],
-	"Interstitial": [{
+	"interstitial": [{
 			"ad": "Admob",
 			"quantity": 100,
 			"id": "ca-app-pub-3940256099942544/2247696110"
