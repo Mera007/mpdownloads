@@ -27,9 +27,9 @@
 	],
 	"interstitial": [{
 			"ad": "Admob",
-			"appid": "",
-			"quantity": 0,
-			"id": ""
+			"appid": "ca-app-pub-3940256099942544~3347511713",
+			"quantity": 100,
+			"id": "ca-app-pub-3940256099942544/1033173712"
 		},
 		{
 			"ad": "Facebook",
